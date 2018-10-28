@@ -13,6 +13,10 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [SemarangJS](https://t.me/semarangjs)
   + [Odoo Semarang](https://t.me/odoosemarang)
   + [CloudJoglo - DevOps Semarang](https://t.me/cloudjoglo)
+
+### UKM PROGRAMING
++ UKM [PCC](https://www.ukmpcc.org/)
++ polines [kampus](https://www.polines.ac.id/id/)
   
 ### Startup
 
